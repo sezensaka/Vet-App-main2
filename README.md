@@ -1,9 +1,9 @@
 # VETAPP
 
 ## BACKEND Canli Linki:
-.......
+[Back-End Canlı Linki](https://eligible-michaela-sezensaka-5ce553c8.koyeb.app/)
 ## FRONTEND Github Linki:
-.......
+[Front-End-Git Hub](https://github.com/sezensaka/Vet-App-Project)
 ## Veteriner Yönetim Sistemi
 
 Veteriner Yönetim Sistemi, veteriner kliniklerinin günlük işlerini düzenlemek ve yönetmek amacıyla oluşturulmuş bir REST API'dir. Bu API ile veteriner çalışanının veteriner doktorları, müşterileri, hayvanları ve aşılarını, randevuları yönetmesi sağlanır.
