@@ -6,7 +6,7 @@ services:
       - 8080:8080
     environment:
       VETAPP_DB_PASS: FYucJX0tkKO5
-      VETAPP_DB_URL: jdbc:postgresql://ep-tiny-bar-a4cvqwn4.us-east-1.pg.koyeb.app
+      VETAPP_DB_URL: jdbc:postgresql://ep-tiny-bar-a4cvqwn4.us-east-1.pg.koyeb.app/
       VETAPP_DB_NAME: koyebdb
       VETAPP_DB_USER: koyeb-adm
 
